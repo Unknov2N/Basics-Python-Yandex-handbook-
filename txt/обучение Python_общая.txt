@@ -1,0 +1,22 @@
+• Учебник по языку С# 11 и платформе .NET 7 https://metanit.com/sharp/tutorial/
+• Роберт Мартин Чистый код https://vk.com/doc5541524_648958833?hash=WPJvwrzyBeUzz4KrHqZtHQdAGblqvNavdYtTEUbShXP&dl=EgzS6Srm8ka154U8BspzBr8JcyHBZZZzay5tvGxOpyX
+
+
+https://metanit.com/sharp/tutorial/
+
+https://livecode.com/
+
+leetcode
+
+Яндекс Практикум?
+
+единопринятый стиль кода https://peps.python.org/pep-0008/
+
+
+ПЛАН ИЗУЧЕНИЯ
+1. Яндекс контест https://academy.yandex.ru/handbook/python
+. https://habr.com/ru/articles/699600/
+. ООП, паттерны проектирования, работа с БД
+2. своя программа (мониторинг компов в сети) + sql
+3. leet code
+4. Django, Flask?

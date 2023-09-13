@@ -1,2 +1,2 @@
 # Studying-Python
-Актуально только _Basics Python (Yanex handbook)_
+Актуально только _Basics Python (Yandex handbook)_

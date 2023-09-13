@@ -1,0 +1,4 @@
+УЧЕБНОЕ ПРОГРАММИРОВАНИЕ
+• Учебник по языку С# 11 и платформе .NET 7 https://metanit.com/sharp/tutorial/
+• Роберт Мартин Чистый код https://vk.com/doc5541524_648958833?hash=WPJvwrzyBeUzz4KrHqZtHQdAGblqvNavdYtTEUbShXP&dl=EgzS6Srm8ka154U8BspzBr8JcyHBZZZzay5tvGxOpyX
+• https://metanit.com/sharp/tutorial/

@@ -1,0 +1,34 @@
+создаЄм зан€ти€:
+собственные задачи делать после завершени€ одного из курсов
+4 пары по 2 часа (включа€ перерыв):
+
+Х SQL https://stepik.org/course/63054/promo?search=2518914096
+Х +визуализаци€ данных (matplotlib?)
+
+Х ќткрытый курс машинного обучени€ https://habr.com/ru/companies/ods/articles/322626/
+аналог https://academy.yandex.ru/handbook/ml
+
+Х ќќѕ: (нагуглим задачи)
+простые задачи
+низкоуровневые паттерны проектировани€ (потокобезопасный singletone, data_transfer_object...)
+высокоуровневые паттерны проектировани€ (MVC, MVP, etc)
+SOLID
+
+Х јлгоритмы (где? leetcode? чекнуть roadmap)
+	деревь€, графы, разок быструю сортировку написать
+		хеш-таблицы
+
+Х –абота с GIT https://practicum.yandex.ru/git-basics/?utm_source=blogger&utm_medium=smm&utm_campaign=blogger_smm_git_basics&utm_content=17-08-2023&utm_term=lukin&erid=LdtCKWBwm 
+	GIT переделать Studying Python на Basics (yandex handbook) и прочее, отформатировать свой гитхаб дл€ работодател€
+
+
+
+Х—обственные задачи
+	автотесты?
+	/ ѕарсер_hh через MySQL
+		добавление нейросетей (onigiri)
+	ѕарсер авито через PostgreSQL
+	мониторинг компов в сети
+	ќбучение ML / DS
+	~ leetcode
+	сторонние либы? Django, Flask, Falcon, FastAPI, etc

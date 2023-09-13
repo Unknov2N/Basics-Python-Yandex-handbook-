@@ -1,22 +1,68 @@
-вЂў РЈС‡РµР±РЅРёРє РїРѕ СЏР·С‹РєСѓ РЎ# 11 Рё РїР»Р°С‚С„РѕСЂРјРµ .NET 7 https://metanit.com/sharp/tutorial/
-вЂў Р РѕР±РµСЂС‚ РњР°СЂС‚РёРЅ Р§РёСЃС‚С‹Р№ РєРѕРґ https://vk.com/doc5541524_648958833?hash=WPJvwrzyBeUzz4KrHqZtHQdAGblqvNavdYtTEUbShXP&dl=EgzS6Srm8ka154U8BspzBr8JcyHBZZZzay5tvGxOpyX
+'+' означает "сделано / изучено"
+
+Задачи:
+	+ metanit.com
+	+ yandex handbook
+	SQL https://stepik.org/course/63054/promo?search=2518914096
+	ООП
+	паттерны проектирования
+		низкоуровневые (singletone, etc)
+		высокоуровневые (MVC, MVVM)
+	SOLID
+	автотесты?
+	Алгоритмы
+		деревья, графы
+		хеш-таблицы
+		декораторы, втч кэширование сделать вручную
+	/ Парсер_hh через MySQL
+		добавление нейросетей
+	регулярные выражения
+	Парсер авито requests/selenium, БД на PostgreSQL
+	GIT https://practicum.yandex.ru/git-basics/?utm_source=blogger&utm_medium=smm&utm_campaign=blogger_smm_git_basics&utm_content=17-08-2023&utm_term=lukin&erid=LdtCKWBwm 
+	GIT переделать Studying Python на Basics (yandex handbook) и прочее, отформатировать свой гитхаб для работодателя
+	мониторинг компов в сети Tkinter
+	Обучение ML / DS
+	сторонние либы? Django, Flask, Falcon, FastAPI, etc
+	Регулярные выражения
+	набиваем руку https://www.hackerrank.com/, https://leetcode.com/, https://exercism.org/
 
 
-https://metanit.com/sharp/tutorial/
 
-https://livecode.com/
+АНАЛИТИКА, необходимые знания:
+SQL + Excel
+Tableau / PowerBI
+Когортный анализ (принципы)
+Понимать парадокс симпсона, чтобы не делать ошибок, к которым он приводит
+Нужно знать основы теории вероятностей:
+	вероятности зависимых и независимых событий, условные вероятности
+	разные статистики: среднее, медиана, мода, стандартное отклонение.
+АВ-тесты: понимать принципы, калькуляторы есть онлайн
+основы regexp
 
-leetcode
+DATA-ИНЖЕНЕР
+SQL
+Python (Java, Kotlin)
+bash
+Docker, Kubernets
+Эта сфера отлично подходит для людей, которым интересно писать системы обработки больших данных (big data) и которым менее интересно придумывать как повысить эффективность бизнеса, стараясь убедить в этом каких-то коллег.
 
-РЇРЅРґРµРєСЃ РџСЂР°РєС‚РёРєСѓРј?
-
-РµРґРёРЅРѕРїСЂРёРЅСЏС‚С‹Р№ СЃС‚РёР»СЊ РєРѕРґР° https://peps.python.org/pep-0008/
+что нужно знать для залёта в DS https://habr.com/ru/articles/668428/
 
 
-РџР›РђРќ РР—РЈР§Р•РќРРЇ
-1. РЇРЅРґРµРєСЃ РєРѕРЅС‚РµСЃС‚ https://academy.yandex.ru/handbook/python
-. https://habr.com/ru/articles/699600/
-. РћРћРџ, РїР°С‚С‚РµСЂРЅС‹ РїСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёСЏ, СЂР°Р±РѕС‚Р° СЃ Р‘Р”
-2. СЃРІРѕСЏ РїСЂРѕРіСЂР°РјРјР° (РјРѕРЅРёС‚РѕСЂРёРЅРі РєРѕРјРїРѕРІ РІ СЃРµС‚Рё) + sql
-3. leet code
-4. Django, Flask?
+
+
+Общие Материалы:
+• ОХРЕНЕТЬ как много литературы по DataScience (ищем "Как есть слона") https://habr.com/ru/articles/668428/
+• Роберт Мартин Чистый код https://vk.com/doc5541524_648958833?hash=WPJvwrzyBeUzz4KrHqZtHQdAGblqvNavdYtTEUbShXP&dl=EgzS6Srm8ka154U8BspzBr8JcyHBZZZzay5tvGxOpyX
+• единопринятый стиль кода https://peps.python.org/pep-0008/
+
+
+Задачи общего характера
+• ООП, паттерны проектирования, работа с БД
+• обучение Python_info изучение пунктов для повышения квалификации
+
+Вопросы общего характера (из собесов)
+• мультипроцессорность против мультипоточности
+• использование with особенности
+• отличие работы с памятью от С/С++
+• как ускорить python до C 

@@ -1,0 +1,2 @@
+git удаление файла из отслеживаемых в pycharm
+https://qna.habr.com/q/349049 git rm --cached <назване файла>

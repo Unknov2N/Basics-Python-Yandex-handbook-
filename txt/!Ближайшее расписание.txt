@@ -5,20 +5,20 @@
 Х SQL https://stepik.org/course/63054/promo?search=2518914096
 Х +визуализаци€ данных (matplotlib?)
 
-Х ќткрытый курс машинного обучени€ https://habr.com/ru/companies/ods/articles/322626/
+Открытый курс машинного обучения https://habr.com/ru/companies/ods/articles/322626/
 аналог https://academy.yandex.ru/handbook/ml
 
-Х ќќѕ: (нагуглим задачи)
+Х ООП: (нагуглим задачи)
 простые задачи
-низкоуровневые паттерны проектировани€ (потокобезопасный singletone, data_transfer_object...)
-высокоуровневые паттерны проектировани€ (MVC, MVP, etc)
+низкоуровневые паттерны проектирования (потокобезопасный singletone, data_transfer_object...)
+высокоуровневые паттерны проектирования (MVC, MVP, etc)
 SOLID
 
-Х јлгоритмы (где? leetcode? чекнуть roadmap)
+Х Алгоритмы (где? leetcode? чекнуть roadmap)
 	деревь€, графы, разок быструю сортировку написать
 		хеш-таблицы
 
-Х –абота с GIT https://practicum.yandex.ru/git-basics/?utm_source=blogger&utm_medium=smm&utm_campaign=blogger_smm_git_basics&utm_content=17-08-2023&utm_term=lukin&erid=LdtCKWBwm 
+Х Работа с GIT https://practicum.yandex.ru/git-basics/?utm_source=blogger&utm_medium=smm&utm_campaign=blogger_smm_git_basics&utm_content=17-08-2023&utm_term=lukin&erid=LdtCKWBwm 
 	GIT переделать Studying Python на Basics (yandex handbook) и прочее, отформатировать свой гитхаб дл€ работодател€
 
 

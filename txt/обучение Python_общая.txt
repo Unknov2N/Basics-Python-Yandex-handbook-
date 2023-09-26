@@ -3,37 +3,58 @@
 «адачи:
 	+ metanit.com
 	+ yandex handbook
-	SQL https://stepik.org/course/63054/promo?search=2518914096
-	ќќѕ
+	
+	Х ML
+		0 ќткрытый курс машинного обучени€ https://habr.com/ru/companies/ods/articles/322626/
+			аналог https://academy.yandex.ru/handbook/ml
+		0 кластеризаци€ onigiri
+	
+	Х SQL https://stepik.org/course/63054/promo?search=2518914096
+		нужно поискать ещЄ варианты
+		оконные функции
+	
+	Х ќќѕ
 	паттерны проектировани€
-		низкоуровневые (singletone, etc)
-		высокоуровневые (MVC, MVVM)
-	SOLID
-	автотесты?
-	јлгоритмы
-		деревь€, графы
+		низкоуровневые (потокобезопасный singletone, data_transfer_object...)
+		высокоуровневые (MVC, MVVM, etc)
+		SOLID
+	Х јлгоритмы
+		массивы, списки, множества
 		хеш-таблицы
-		декораторы, втч кэширование сделать вручную
+		бинарные деревь€
+		графы
+	Х GIT https://practicum.yandex.ru/git-basics/?utm_source=blogger&utm_medium=smm&utm_campaign=blogger_smm_git_basics&utm_content=17-08-2023&utm_term=lukin&erid=LdtCKWBwm 
+	
+	Х ѕ–ќ„≈≈:
+		0 python
+			!roadmap
+			декораторы, втч кэширование сделать вручную
+			pandas, matplotlib / seaborn
+		0 регул€рные выражени€
+	
+	Х набиваем руку
+		https://leetcode.com/
+		https://www.codewars.com/
+		https://www.hackerrank.com/
+		https://exercism.org/
+		
+	Х ќсновы статистики
+			
+	ѕарсер авито requests/selenium, Ѕƒ на PostgreSQL
 	/ ѕарсер_hh через MySQL
 		добавление нейросетей
-	регул€рные выражени€
-	ѕарсер авито requests/selenium, Ѕƒ на PostgreSQL
-	GIT https://practicum.yandex.ru/git-basics/?utm_source=blogger&utm_medium=smm&utm_campaign=blogger_smm_git_basics&utm_content=17-08-2023&utm_term=lukin&erid=LdtCKWBwm 
-	GIT переделать Studying Python на Basics (yandex handbook) и прочее, отформатировать свой гитхаб дл€ работодател€
 	мониторинг компов в сети Tkinter
 	ќбучение ML / DS
 	сторонние либы? Django, Flask, Falcon, FastAPI, etc
-	–егул€рные выражени€
-	набиваем руку https://www.hackerrank.com/, https://leetcode.com/, https://exercism.org/ https://www.codewars.com/
 	аналог кто куда / гдечто
 
 
-
 јЌјЋ»“» ј, необходимые знани€:
+https://habr.com/ru/articles/563594/
 SQL + Excel
 Tableau / PowerBI
  огортный анализ (принципы)
-ѕонимать парадокс симпсона, чтобы не делать ошибок, к которым он приводит
+ѕонимать парадокс симпсона, чтобы не делать ошибок, к которым он приводит 
 Ќужно знать основы теории веро€тностей:
 	веро€тности зависимых и независимых событий, условные веро€тности
 	разные статистики: среднее, медиана, мода, стандартное отклонение.
@@ -66,4 +87,5 @@ Docker, Kubernets
 Х мультипроцессорность против мультипоточности
 Х использование with особенности
 Х отличие работы с пам€тью от —/—++
-Х как ускорить python до C 
+Х как ускорить python до C
+Х оконные функции SQL

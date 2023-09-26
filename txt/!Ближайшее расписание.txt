@@ -1,34 +1,39 @@
-создаЄм зан€ти€:
-собственные задачи делать после завершени€ одного из курсов
-4 пары по 2 часа (включа€ перерыв):
+Здесь только ближайшие области для развития (чтобы не закопаться и сконцентрироваться; полные данные в "обучение Python_общая")
 
-Х SQL https://stepik.org/course/63054/promo?search=2518914096
-Х +визуализаци€ данных (matplotlib?)
 
-Открытый курс машинного обучения https://habr.com/ru/companies/ods/articles/322626/
+ПРОГА
+• SQL https://stepik.org/course/63054/promo?search=2518914096
++визуализация данных (matplotlib?)
+	нужен ещё один курс
+
+• Открытый курс машинного обучения https://habr.com/ru/companies/ods/articles/322626/
 аналог https://academy.yandex.ru/handbook/ml
 
-Х ООП: (нагуглим задачи)
+• ООП: (нагуглим задачи)
 простые задачи
 низкоуровневые паттерны проектирования (потокобезопасный singletone, data_transfer_object...)
 высокоуровневые паттерны проектирования (MVC, MVP, etc)
 SOLID
 
-Х Алгоритмы (где? leetcode? чекнуть roadmap)
-	деревь€, графы, разок быструю сортировку написать
+• Алгоритмы (где? leetcode? чекнуть roadmap)
+	деревья, графы, разок быструю сортировку написать
 		хеш-таблицы
 
-Х Работа с GIT https://practicum.yandex.ru/git-basics/?utm_source=blogger&utm_medium=smm&utm_campaign=blogger_smm_git_basics&utm_content=17-08-2023&utm_term=lukin&erid=LdtCKWBwm 
-	GIT переделать Studying Python на Basics (yandex handbook) и прочее, отформатировать свой гитхаб дл€ работодател€
+• Работа с GIT https://practicum.yandex.ru/git-basics/?utm_source=blogger&utm_medium=smm&utm_campaign=blogger_smm_git_basics&utm_content=17-08-2023&utm_term=lukin&erid=LdtCKWBwm 
 
 
-
-Х—обственные задачи
+•собственные задачи
 	автотесты?
 	/ ѕарсер_hh через MySQL
 		добавление нейросетей (onigiri)
-	ѕарсер авито через PostgreSQL
+	парсер авито через PostgreSQL
 	мониторинг компов в сети
 	ќбучение ML / DS
 	~ leetcode
 	сторонние либы? Django, Flask, Falcon, FastAPI, etc
+	
+	
+АНГЛИЙСКИЙ: по 1-2 статьи в день
+
+
+Тервер, матстат, ангем+линал: извлекаем из курсов по проге
